@@ -15,12 +15,7 @@ Welcome to my GitHub profile. I'm a web developer from the Philippines who loves
 
 <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
 
-### Extras : 
-Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawk.to, Font Awesome and JSON
-
-## 📌 Sneak Peek of Main Page 🙈 :
-![mockup720](ss.png)
-![ss](skills.png)
+Feel free to explore my projects and get in touch!
 
 
 <h2>📬 Contact</h2>
