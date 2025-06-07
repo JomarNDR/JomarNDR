@@ -11,7 +11,7 @@ Welcome to my GitHub profile. I'm a Web Developer from the Philippines who loves
 ![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)&nbsp;
 ![SQL](https://img.shields.io/badge/sql-%23007ACC.svg?&style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![CodeIgniter](https://img.shields.io/badge/codeigniter-%23EF4223.svg?&style=for-the-badge&logo=codeigniter&logoColor=white);
+![CodeIgniter](https://img.shields.io/badge/codeigniter-%23EF4223.svg?&style=for-the-badge&logo=codeigniter&logoColor=white)&nbsp;
 ![AngularJS](https://img.shields.io/badge/angularjs-%23E23237.svg?&style=for-the-badge&logo=angularjs&logoColor=white)
 
 <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
